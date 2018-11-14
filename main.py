@@ -10,4 +10,4 @@ nothing = (0,0,0)
 navn = "SEND NUDES"
 
 while True:
-  sense.show_message(navn, scroll_speed=0.1, text_colour=red, back_colour=nothing)
+  sense.show_message(navn, scroll_speed=0.1, text_colour=white, back_colour=nothing)
