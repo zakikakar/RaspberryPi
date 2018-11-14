@@ -7,7 +7,7 @@ blue = (0,0,255)
 yellow = (255,255,0)
 white = (255,255,255)
 nothing = (0,0,0)
-navn = "ZAKI"
+navn = "SEND NUDES"
 
 while True:
-  sense.show_message(navn, scroll_speed=0.1, text_colour=blue, back_colour=nothing)
+  sense.show_message(navn, scroll_speed=0.1, text_colour=red, back_colour=nothing)
