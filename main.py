@@ -10,5 +10,4 @@ nothing = (0,0,0)
 navn = "ZAKI"
 
 while True:
-  sense.show_message(navn, scroll_speed=0.1, text_colour=nothing, back_colour=blue)
-  sense.clear(red)
+  sense.show_message(navn, scroll_speed=0.1, text_colour=blue, back_colour=nothing)
